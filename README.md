@@ -9,7 +9,7 @@ A fully interactive, 4-page Power BI executive platform built to diagnose supply
 
 The core problem: **$202M in internal routing data noise** was masking real, actionable third-party vendor failures. This platform cuts through that noise, surfaces the true risk exposure, and delivers a strategic recovery path — built entirely for C-suite decision-making.
 
-📌 **View the LinkedIn project post here:** [Insert LinkedIn Post URL]
+📌 **View the LinkedIn project post here:** https://www.linkedin.com/posts/abhinashokda_dataanalytics-powerbi-supplychain-ugcPost-7457354780869533696-XVKR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADI4q_cB1esqc4jkt8WTBT7-DKXCqBOu794
 
 ---
 
