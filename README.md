@@ -140,7 +140,7 @@ supply-chain-risk-powerbi/
 
 Calicut, Kerala | [LinkedIn](https://linkedin.com/in/abhinashokda) | [GitHub](https://github.com/AbH1-N) | abhinashok.nalloor@gmail.com
 
-Currently completing Advanced Data Analytics Certification at Zoople Technologies. Open to Data Analyst opportunities.
+Completed Advanced Data Analytics Certification at Zoople Technologies. Open to Data Analyst opportunities.
 
 ---
 
