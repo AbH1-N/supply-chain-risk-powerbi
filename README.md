@@ -74,6 +74,7 @@ Projects capital recovery through transit mode shifting and vendor consolidation
 ## Data Source
 
 **SCMS Delivery History Dataset** — publicly available supply chain dataset covering pharmaceutical product delivery records across global routes and vendors.
+SCMS (Supply Chain Management System) is used by gloabl health organizations including USAID-funded programs to manage pharmaceutical and medical supply logistics.
 
 - Source: SCMS (Supply Chain Management System) — public dataset
 - Records: 10,000+ delivery rows pre-cleaning
