@@ -44,6 +44,10 @@ Projects capital recovery through transit mode shifting and vendor consolidation
 
 ---
 
+**Live Dashboard:**[View Interactive Report on Power BI Public]https://app.powerbi.com/groups/aef0c5ca-e09e-4557-be04-ec6f34dd8273/reports/c8b50180-a158-4375-bfa5-58e0043bba50?experience=power-bi&redirectedFromSignup=1
+
+---
+
 ## Screenshots
 
 | Executive Summary | Vendor Accountability |
